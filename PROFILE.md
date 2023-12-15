@@ -1,1 +1,1 @@
-I am a file.
+Welcome to my GitHub profile!
